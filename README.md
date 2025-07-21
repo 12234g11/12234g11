@@ -33,6 +33,24 @@
 
 ---
 
+## 🧩 Basic Programming
+
+<table>
+  <tr>
+    <td width="100%">
+      <ul>
+        <li>🔰 Started learning programming using <strong>C++</strong> for a strong foundation</li>
+        <li>🧠 Developed <strong>problem-solving skills</strong> through logic-based exercises</li>
+        <li>📊 Studied core <strong>Data Structures and Algorithms</strong> (DSA)</li>
+        <li>🗃️ Learned the basics of <strong>Databases (SQL)</strong> and database design</li>
+        <li>📈 Gained a deep understanding of how code performs behind the scenes</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧠 Tech I Love
 
 <div align="center">
