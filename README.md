@@ -52,7 +52,7 @@
 
 ---
 
-## 🧠 Tech I Love
+## 🧰 Tools & Technologies I Use
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=React.js;TypeScript;HTML+%26+CSS;JavaScript;Bootstrap;and+more..." alt="Typing SVG" />
