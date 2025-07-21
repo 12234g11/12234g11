@@ -49,6 +49,33 @@
   </tr>
 </table>
 
+---
+
+## 🎯 Projects
+
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td align="center" width="50%">
+      <a href="https://12234g11.github.io/Product-Management-System/" target="_blank">
+        <img src="https://img.icons8.com/external-flat-icons-inmotus-design/100/null/external-product-productivity-flat-icons-inmotus-design-2.png" alt="Product Management System" width="80" height="80"/>
+        <br />
+        <strong>Product Management System</strong>
+      </a>
+      <p>A CRUD system built with JavaScript and local storage to manage products dynamically.</p>
+    </td>
+
+    <!-- Project 2 -->
+    <td align="center" width="50%">
+      <a href="https://12234g11.github.io/web-games-collection/" target="_blank">
+        <img src="https://img.icons8.com/fluency/96/controller.png" alt="Web Games Collection" width="80" height="80"/>
+        <br />
+        <strong>Web Games Collection</strong>
+      </a>
+      <p>A fun collection of browser-based games built with HTML, CSS, and JavaScript.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
