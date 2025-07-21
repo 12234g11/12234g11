@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yasser Khaled</h1>
-<h3 align="center">
-  🚀 Software Engineer | Frontend Developer (React.js, JavaScript, UI/UX)
-</h3>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Yasser+Khaled;Software+Engineer+%7C+Frontend+Developer+(React.js%2C+JavaScript%2C+UI%2FUX)" alt="Typing Intro" />
+</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=12234g11&label=Profile%20views&color=0e75b6&style=flat" alt="12234g11" />
