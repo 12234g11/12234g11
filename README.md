@@ -9,15 +9,22 @@
 
 ### ✨ About Me
 
-<p align="center">
-  <img src="./thoughtworks-gif_dribbble.gif" height="260px" />
-</p>
-
+<table>
+  <tr>
+    <td width="60%">
+      
 - 🌱 I’m currently learning **MERN Stack**  
 - 🔭 I’m building **interactive and responsive UIs** with React.js  
 - 💬 Ask me about **React**, **JavaScript (ES6+)**  
 - 📫 How to reach me: **yaserkhaled171999@gmail.com**  
 - ⚡ Fun fact: I love building side projects that solve real problems  
+
+    </td>
+    <td>
+      <img src="./thoughtworks-gif_dribbble.gif" alt="GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
