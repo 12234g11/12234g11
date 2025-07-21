@@ -86,10 +86,6 @@
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=12234g11&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
 
-<!-- GitHub Stats -->
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=12234g11&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-
 <!-- Top Languages -->
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12234g11&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="200"/>
