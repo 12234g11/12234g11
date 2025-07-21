@@ -76,7 +76,10 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="margin: 10px;" />
 </p>
+
+
 ---
+
 
 ## 🔗 Connect with Me
 
