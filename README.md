@@ -32,9 +32,9 @@
 
 ## 🧠 Tech I Love
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=React.js;TypeScript;HTML+%26+CSS;JavaScript;Bootstrap;and+more..." alt="Typing SVG" />
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=React.js;TypeScript;HTML+%26+CSS;JavaScript;Bootstrap;and+more..." alt="Typing SVG" />
+</div>
 
 <p align="center">
   <!-- Primary Technologies -->
@@ -54,6 +54,7 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="margin: 10px;" />
 </p>
+
 
 ---
 
