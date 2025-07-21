@@ -8,6 +8,7 @@
 ---
 
 ### ✨ About Me
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 - 🌱 I’m currently learning **MERN Stack**  
 - 🔭 I’m building **interactive and responsive UIs** with React.js  
 - 💬 Ask me about **React**, **JavaScript (ES6+)**
