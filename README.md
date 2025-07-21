@@ -46,17 +46,6 @@
         <li>📈 Gained a deep understanding of how code performs behind the scenes</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
-      <br><br>
-      <img src="https://img.icons8.com/ios-filled/100/logic-gate.png" alt="Problem Solving" width="60" height="60" />
-      <br><br>
-      <img src="https://img.icons8.com/ios-filled/100/data-structure.png" alt="DSA" width="60" height="60" />
-      <br><br>
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="60" height="60" />
-      <br><br>
-      <img src="https://img.icons8.com/ios-filled/100/performance-macbook.png" alt="Code performance" width="60" height="60" />
-    </td>
   </tr>
 </table>
 
