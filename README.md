@@ -10,13 +10,6 @@
     alt="Typing effect line 2" />
 </h2>
 
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=12234g11&label=Profile%20views&color=0e75b6&style=flat" alt="12234g11" />
-</p>
-
 ---
 
 ### ✨ About Me
@@ -65,10 +58,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="margin: 10px;" />
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=12234g11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
