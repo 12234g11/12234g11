@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&width=700&lines=%F0%9F%9A%80+Software+Engineer+%7C+Frontend+Developer;React.js%2C+JavaScript%2C+UI%2FUX" alt="Typing effect line 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&width=900&lines=%F0%9F%9A%80+Frontend+Developer+(React.js%2C+JavaScript%2C+UI%2FUX)" alt="Typing effect" />
 </h3>
 
 
