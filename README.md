@@ -79,12 +79,24 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=12234g11&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=12234g11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=12234g11&theme=radical&hide_border=true" alt="GitHub Streak" height="200"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=12234g11&theme=radical" alt="GitHub Streak" /></p>
+<!-- GitHub Stats -->
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=12234g11&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+
+<!-- Top Languages -->
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12234g11&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="200"/>
+
+<!-- Trophies (Optional) -->
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=12234g11&theme=radical&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
